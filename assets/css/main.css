@@ -1,0 +1,13 @@
+@import "tailwind.css";
+
+@font-face {
+    font-family: 'VinnytsiaSans';
+    src: url('../fonts/VinnytsiaNewCityRegular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'VinnytsiaSans';
+    src: url('../fonts/VinnytsiaSansBold.ttf') format('truetype');
+    font-weight: 700;
+}
